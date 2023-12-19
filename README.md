@@ -32,7 +32,7 @@ Find the file named 'ara' and create a backup by renaming it to 'ara_backup' or 
 
 The following modifications have been made to the keyboard layout:
 
-  1.  The letter 'ta marbuta' (ة) is now accessible directly with the 'x' key, eliminating the need for 'Shift + x.'
+  1.  The letter 'ta marbuta' (ة) is now accessible directly with the 'x' key, eliminating the need for 'Shift + x.' Since it is a common letter.
 
   2.  The letter 'gain' (غ) has been moved to the 'g' key instead of 'Shift + g.'
 
