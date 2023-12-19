@@ -23,7 +23,8 @@ Find the file named 'ara' and create a backup by renaming it to 'ara_backup' or 
  <br />   Note: You will need sudo access for this step.
 
  <br />   Next, download the 'ara_' file from this repository and replace your old 'ara' file with it. For that, run the following command:
- ``` sudo cp path-to-your-download-directory/ara_ ./ # assuming you were in /usr/share/X11/xkb/symbols directory
+ ```
+sudo cp path-to-your-download-directory/ara_ ./ # assuming you were in /usr/share/X11/xkb/symbols directory
 ```
 
  <br />   Restart your computer. After restarting, your QWERTY Arabic keyboard layout should be replaced with the phonetic keyboard.
